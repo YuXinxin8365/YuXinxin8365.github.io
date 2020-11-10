@@ -1,10 +1,10 @@
 # **Yi Lou**
-##Papers
-##Research Projects
-##Curriculum Vitae
-##Teaching
-##Academic Service
-##Contact
+## Papers
+## Research Projects
+## Curriculum Vitae
+## Teaching
+## Academic Service
+## Contact
 <table border="0">
   <tr>
     <td width="75%">
