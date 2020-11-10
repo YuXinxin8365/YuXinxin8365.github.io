@@ -1,6 +1,4 @@
 Papers
-  - Journal papers
-  - Conference papers
 
 	* Yi Lou, Ruofan Sun, Julian Cheng, Donghu Nie, Gang Qiao, “Secrecy Outage Analysis of Two-Hop Decode-and-Forward Mixed RF/UWOC Systems”, submitted to IEEE Communications Letters in 2020.(IF = 3.419)
 	* 
