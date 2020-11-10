@@ -8,12 +8,13 @@
  - Journal Papers
  - Conference papers
  
-## Research Projects
+## [Research Projects](index-Research Project.md)
 
 ## [Curriculum Vitae](index-Curriculum Vitae.md)
 
 ## Teaching
-## Academic Service
+
+## [Academic Service](index-Academic Service.md)
 
 ## [Contact](index-Contact.md)
 
