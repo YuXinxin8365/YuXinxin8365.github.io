@@ -12,7 +12,8 @@
 ## [Curriculum Vitae](index-Curriculum Vitae.md)
 ## Teaching
 ## Academic Service
-## Contact
+
+## [Contact](index-Contact.md)
 <table border="0">
   <tr>
     <td width="75%">
