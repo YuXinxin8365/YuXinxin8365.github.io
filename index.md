@@ -10,10 +10,12 @@
 ## Research Projects
 
 ## [Curriculum Vitae](index-Curriculum Vitae.md)
+
 ## Teaching
 ## Academic Service
 
 ## [Contact](index-Contact.md)
+
 <table border="0">
   <tr>
     <td width="75%">
