@@ -1,5 +1,6 @@
 # **Yi Lou**
 ## Papers
+<a href="/index-Papers.html">Papers</a>
 ## Research Projects
 ## Curriculum Vitae
 ## Teaching
