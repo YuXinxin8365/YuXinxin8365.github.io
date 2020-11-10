@@ -1,7 +1,7 @@
 # **Yi Lou**
 
 <img src="/一寸.jpg" width="100%"> 
-<img src="./一寸.png" width = "100" align=center />
+<img src="/一寸.png" width = "100" align=center />
 
 - I'm an Associate Professor in School of Informatics of Harbin Engineering University.
 - My research interests are wireless communications ...
