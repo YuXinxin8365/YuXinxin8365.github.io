@@ -8,6 +8,7 @@
  - Conference papers
  
 ## Research Projects
+
 ## [Curriculum Vitae](index-Curriculum Vitae.md)
 ## Teaching
 ## Academic Service
