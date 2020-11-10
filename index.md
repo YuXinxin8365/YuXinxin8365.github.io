@@ -1,5 +1,5 @@
 # **Yi Lou**
-- I'm an Associate Professor in School of Informatics of Xiamen University.
+ I'm an Associate Professor in School of Informatics of Xiamen University.
 ## [Papers](index-Papers.md)
  - Journal Papers
  - Conference papers
