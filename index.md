@@ -1,4 +1,7 @@
 # **Yi Lou**
+
+![jp](一寸.jpg)
+
 - I'm an Associate Professor in School of Informatics of Harbin Engineering University.
 - My research interests are wireless communications ...
 - I got PHD degree from ...
