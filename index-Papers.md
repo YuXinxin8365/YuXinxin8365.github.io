@@ -1,7 +1,6 @@
 Papers
 
-- Journal papers
-- Conference papers
+
 - **Yi Lou**, Ruofan Sun, Julian Cheng, Donghu Nie, Gang Qiao, “Secrecy Outage Analysis of Two-Hop Decode-and-Forward Mixed RF/UWOC Systems”, submitted to IEEE Communications Letters in 2020.(IF = 3.419)
 - **Yi Lou**, Julian Cheng, Donghu Nie, and Gang Qiao, “Performance of Underwater Wireless Optical Communications With Cascaded Mixture Exponential-Generalized Gamma Turbulence”, submitted to IEEE Transactions on Vehicular Technology in 2020.(IF = 5.379)
 - Ruoyu Zhang, Byonghyo Shim, **Yi Lou**, Shaobo Jia, Wen Wu, “Sparse Vector Coding Aided Ultra Reliable and Low Latency Communications in Multi-User Massive MIMO Systems”, submitted to IEEE Transactions on Vehicular Technology in 2020.(IF = 5.379)
