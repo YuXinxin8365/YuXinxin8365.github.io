@@ -1,7 +1,7 @@
 # **Yi Lou**
-- ## Papers
-  - Journal Papers
-  - Conference papers
+## Papers
+ - Journal Papers
+ - Conference papers
 ## Research Projects
 ## Curriculum Vitae
 ## Teaching
