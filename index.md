@@ -7,8 +7,6 @@
 - Looking for ...
 
 ## [Papers](index-Papers.md)
- - Journal Papers
- - Conference papers
  
 ## [Research Projects](index-Research Project.md)
 
